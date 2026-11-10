@@ -11,11 +11,11 @@
   },
   "navigation": [
     {
+      "page": "index"
+    },
+    {
       "group": "Getting Started",
       "pages": [
-        {
-          "page": "index"
-        },
         {
           "page": "quickstart"
         }
@@ -26,6 +26,46 @@
       "pages": [
         {
           "page": "guides/writing-docs"
+        }
+      ]
+    },
+    {
+      "group": "PageLoop CKEditor Test 2026-05-28",
+      "pages": [
+        {
+          "group": "rocketlane",
+          "pages": [
+            {
+              "page": "pageloop-ckeditor-test-2026-05-28/rocketlane/how-to-use-resource-ai-to-optimize-resource-allocation"
+            },
+            {
+              "page": "pageloop-ckeditor-test-2026-05-28/rocketlane/capacity-planning"
+            },
+            {
+              "page": "pageloop-ckeditor-test-2026-05-28/rocketlane/how-to-enable-and-configure-auto-allocate-in-a-project"
+            },
+            {
+              "page": "pageloop-ckeditor-test-2026-05-28/rocketlane/resource-management-the-people-tab"
+            },
+            {
+              "page": "pageloop-ckeditor-test-2026-05-28/rocketlane/how-to-manage-resource-requests-in-rocketlane"
+            },
+            {
+              "page": "pageloop-ckeditor-test-2026-05-28/rocketlane/how-to-allocate-resources-as-percentage-of-capacity"
+            },
+            {
+              "page": "pageloop-ckeditor-test-2026-05-28/rocketlane/people-tab-effectively-manage-your-team-s-capacity"
+            },
+            {
+              "page": "pageloop-ckeditor-test-2026-05-28/rocketlane/projects-tab-find-the-best-team-for-your-projects"
+            },
+            {
+              "page": "pageloop-ckeditor-test-2026-05-28/rocketlane/using-skills-matrix-to-assign-skills-to-projects"
+            },
+            {
+              "page": "pageloop-ckeditor-test-2026-05-28/rocketlane/resource-management-the-projects-tab"
+            }
+          ]
         }
       ]
     }
